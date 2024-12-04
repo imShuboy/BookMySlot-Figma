@@ -6,7 +6,7 @@ In addition to appointment management, the design incorporates features to **ord
 
 The platform also emphasizes real-time connectivity by including options to **chat with doctors**, **ask health-related questions**, and access expert advice instantly. This dynamic design prioritizes accessibility and usability, making healthcare management effortless for users.
 
-
+Link: https://shorturl.at/jHtiu
 
 ![bookmyslot](https://github.com/user-attachments/assets/36a863cc-0fb6-4ba2-a8b9-2c8cbc0ba2c7)
 

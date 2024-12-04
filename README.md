@@ -1,4 +1,4 @@
-# BookMySlot-Figma
+# BookMySlot
 
 The **BookMySlot** design is a comprehensive healthcare interface created in Figma, aimed at enhancing the user experience for managing medical needs. The platform enables users to seamlessly **book appointments with doctors**, ensuring efficient scheduling while reducing the hassle of waiting in queues.  
 
